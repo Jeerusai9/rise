@@ -4,7 +4,7 @@ app = Flask(__name__)
   
 @app.route('/')
 def hello():
-    return "finally did it after 93 attempt and succeeded"
+    return "finally did it after 93 attempts"
   
   
 if __name__ == "__main__":
