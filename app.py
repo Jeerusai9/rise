@@ -4,7 +4,7 @@ app = Flask(__name__)
   
 @app.route('/')
 def hello():
-    return "Rising Phoenix did the CI CD pipeline using jenkins project after 94 attempts and succeeded"
+    return "Rising Phoenix did the CI CD pipeline using jenkins "
   
   
 if __name__ == "__main__":
